@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Bienvenue ! \n\n\nCette application vous permez de calculer vos parametres de décompression en utilisant les tables MN90.</string>
+    <string name="voirTableMN90">Voir la table MN90</string>
+    <string name="app_name">Ma decompression aux tables</string>
+    <string name="aPropos">Application créée par Yann Marechal</string>
+     <string name="plongeeSimple">Plongée Simple</string>
+     <string name="plongeeSuccessive">Plongée Successive</string>
+    <string name="TimeUnitName">Minutes</string>
+    <color name="background">#046380</color>
+
+</resources>
